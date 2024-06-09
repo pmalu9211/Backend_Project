@@ -21,6 +21,7 @@ lib-cov
 
 0NOTES.txt
 
+Testing
 # Coverage directory used by tools like istanbul
 coverage
 *.lcov
