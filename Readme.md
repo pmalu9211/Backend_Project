@@ -71,7 +71,7 @@ npm run dev
 This will start the server with `nodemon`, which will automatically reload the server when you make changes to the code.
 
 ## Model
-Link to the model [Model](#(https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj))
+Link to the model Model(https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
 
 ## Project Structure
 
