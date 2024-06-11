@@ -50,8 +50,14 @@ To get started with the MegaProject Backend, follow these steps:
     ```env
     PORT=3000
     MONGODB_URI=your_mongodb_uri
-    JWT_SECRET=your_jwt_secret
-    CLOUDINARY_URL=your_cloudinary_url
+    CORS_ORIGIN=url
+    ACCESS_TOKEN_SECRET=your_access_token_secret
+    ACCESS_TOKEN_EXPIRY=your_access_token_expiry
+    REFRESH_TOKEN_SECRET=your_refresh_token_secret
+    REFRESH_TOKEN_EXPIRY=your_refresh_token_expiry
+    CLOUDINARY_CLOUD_NAME=name
+    CLOUDINARY_API_SECRET=your_cloudinary_api_secret
+    CLOUDINARY_API_KEY=your_cloudinary_api_key
     ```
 
 ## Usage
