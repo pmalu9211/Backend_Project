@@ -1,4 +1,5 @@
-# MegaProject Backend
+# HuTube
+### Video sharing platform 
 
 ## Table of Contents
 
@@ -11,7 +12,6 @@
 - [Industry Standard Practices](#industry-standard-practices)
 - [Dependencies](#dependencies)
 - [Scripts](#scripts)
-- [License](#license)
 - [Author](#author)
 
 ## Introduction
@@ -37,8 +37,8 @@ To get started with the MegaProject Backend, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/megaproject-backend.git
-    cd megaproject-backend
+    git clone https://github.com/pmalu9211/Backend_Project.git
+    cd Backend_Project
     ```
 
 2. Install the dependencies:
@@ -166,10 +166,6 @@ The project relies on the following main dependencies:
 ## Scripts
 
 - `dev`: Starts the development server with `nodemon` and loads environment variables from the `.env` file.
-
-## License
-
-This project is licensed under the ISC License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
