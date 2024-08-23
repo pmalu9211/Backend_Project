@@ -1,4 +1,4 @@
-# HuTube
+# VidShare
 ### Video sharing platform 
 
 ## Table of Contents
